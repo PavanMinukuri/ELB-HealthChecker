@@ -1,5 +1,5 @@
 # ELB-HealthChecker
-# ELBHealthChecker-SwetaP
+# ELBHealthChecker
 
 
 ## Load Balancer Health Checker (AWS Lambda + SNS)
