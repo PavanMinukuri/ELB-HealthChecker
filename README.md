@@ -9,7 +9,9 @@ If any instances are unhealthy, the function sends a notification via SNS (Simpl
 The function runs automatically every 10 minutes using CloudWatch Events.
 
 ##  Load Baclancer Image
-<img width="1654" height="835" alt="image" src="https://github.com/user-attachments/assets/d5875216-57a8-4c2d-a9d0-664d0be7f03f" />
+<img width="1114" height="476" alt="image" src="https://github.com/user-attachments/assets/1f41c66c-b22b-49fe-a287-25eba2f03062" />
+
+
 
 ## Step-by-Step Guide
 ### 1. Create an SNS Topic
